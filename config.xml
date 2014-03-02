@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.Newrhymer.newrhymer"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Simple Rhymer</name>
+
+    <description>
+        A simple app that helps you to find rhyming words. 
+    </description>
+
+    <author href="na" email="vipin.vijay.kumar9@gmail.com">
+        Vipin VijayKumar
+    </author>
+<preference name="fullscreen" value="true" />
+
+</widget>
